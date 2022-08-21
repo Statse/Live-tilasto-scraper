@@ -7,7 +7,7 @@ api = Flask(__name__)
 
 @api.route('/game', methods=['GET'])
 def get_companies():
-  return json.dumps(gameParser())
+  return gameParser()
 
 if __name__ == '__main__':
     api.run() 

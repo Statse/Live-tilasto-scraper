@@ -23,7 +23,7 @@ def gameParser():
             for qrt in quarters:
                 for down in qrt:
                     if down.get('description') == 'FINAL SCORE':
-                        return data
+                        return quarters
 
     #init parser
     options = Options()
