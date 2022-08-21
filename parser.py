@@ -18,8 +18,8 @@ def gameParser():
     if file_exists:
         with open(jsonName) as f:
             data = json.load(f)
-            data = json.dumps(data)
-            quarters = json.loads(data)
+            quarters = json.dumps(data)
+            quarters = json.loads(quarters)
             for qrt in quarters:
                 for down in qrt:
                     if down.get('description') == 'FINAL SCORE':
@@ -80,7 +80,7 @@ def gameParser():
                 "qrt": currentQuarter,
                 "team": team,
                 "downAndDistance": downAndDistance,
-                "bassPos": ballPosition,
+                "ballPosition": ballPosition,
                 "description": description,
                 "penalty": penalty
             }
