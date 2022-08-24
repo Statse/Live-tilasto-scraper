@@ -3,7 +3,6 @@ from parser import gameParser
 
 api = Flask(__name__)
 
-
 @api.route('/', methods=['GET'])
 def index():
   return "Example request: /game?url=http://www.sajl.org/images/tilastot/crocodiles-butchers-21-05-2022.shtml. Find games to parse from here: http://www.sajl.org/selaus/otteluohjelma.php?sarja=1&kausi=2022"

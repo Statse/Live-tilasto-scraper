@@ -1,8 +1,6 @@
 from msilib.schema import Error
-import pandas as pd
-import time
 import json
-import datetime
+import time
 
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
@@ -20,7 +18,9 @@ def gameParser(url):
     path_to_chromedriver = 'C:/chromedriver' # change path as needed
     browser = webdriver.Chrome(path_to_chromedriver, options=options)
     browser.get(url)
+
     jsonName = str(browser.find_element("xpath", '/html/body/center/font/h3/font').text)
+
     file_exists = exists(jsonName)
 
     #TODO: make some kind of cache that knows if we generated this file not too long ago so we dont have to
@@ -32,16 +32,12 @@ def gameParser(url):
             quarters = json.loads(quarters)
             for qrt in quarters:
                 for down in qrt:
-                    if down.get('description') == 'FINAL SCORE':
-                        return quarters
+                    return quarters
+                    # if down.get('description') == 'FINAL SCORE':
 
     # get and set team names 
-    # homeTeamName = browser.find_element("xpath",'/html/body/center/font/font[1]/center/p[3]/table/tbody/tr[3]/td[1]/font/b').text
-    # awayTeamName = browser.find_element("xpath",'/html/body/center/font/font[1]/center/p[3]/table/tbody/tr[2]/td[1]/font/b').text
-    # meta = {
-    #     "created": datetime.datetime.now()
-    # }
-
+    homeTeamName = browser.find_element("xpath",'/html/body/center/font/font[1]/center/p[3]/table/tbody/tr[3]/td[1]/font/b').text
+    awayTeamName = browser.find_element("xpath",'/html/body/center/font/font[1]/center/p[3]/table/tbody/tr[2]/td[1]/font/b').text
     quarters = []
     gameOver = False
     # overTime = False
@@ -56,6 +52,7 @@ def gameParser(url):
         rowString = str('/html/body/center/font/font[7]/center/table[' + currentQuarter + ']/tbody/tr')
         rows = browser.find_elements("xpath", rowString)
         rowCount = len(rows)
+        drives = []
         downs = []
         for x in range(rowCount):
             # get down data
@@ -73,34 +70,44 @@ def gameParser(url):
             if "PENALTY" in description:
                 penalty = True
 
-            down = {
-                "id": downId,
-                "qrt": currentQuarter,
-                "team": team,
-                "downAndDistance": downAndDistance,
-                "ballPosition": ballPosition,
-                "description": description,
-                "penalty": penalty
-            }
-            downs.append(down)
+            if (description.startswith("Drive:")):
+                drive = {
+                    "summary": description,
+                    "downs": downs
+                }
+                drives.append(drive)
+                downs = []
+            else:
+                down = {
+                    "id": downId,
+                    "qrt": currentQuarter,
+                    "team": team,
+                    "downAndDistance": downAndDistance,
+                    "ballPosition": ballPosition,
+                    "description": description,
+                    "penalty": penalty
+                }
+                downs.append(down)
 
-        quarters.append(downs)
+        quarters.append(drives)
         if (gameOver):
             break
 
     print("Runtime %s seconds" % (time.time() - start_time))
     browser.quit()
 
-    # df = pd.DataFrame(quarters)
-    # print(df)
+    gameObject = {
+        "home": homeTeamName,
+        "away": awayTeamName,
+        "quarters": quarters
+    }
 
-    quartersJson = json.dumps(quarters)
-
+    gameObjectJson = json.dumps([gameObject])
     jsonFile = open(jsonName, "w")
-    jsonFile.write(quartersJson)
+    jsonFile.write(json.dumps(gameObjectJson))
     jsonFile.close()
 
-    return quartersJson
+    return gameObjectJson
 
 # run this separately if needed
 if __name__ == '__main__':
