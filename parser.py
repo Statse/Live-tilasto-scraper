@@ -1,3 +1,4 @@
+from msilib.schema import Error
 import pandas as pd
 import time
 import json
@@ -8,9 +9,18 @@ from selenium.webdriver.chrome.options import Options
 from os.path import exists
 
 
-def gameParser():
+def gameParser(url):
+    isValidUrl = url.startswith("http://www.sajl.org/images/tilastot")
+    if (isValidUrl == False):
+        raise Error(url + "is not a valid url.")
     start_time = time.time()
-    jsonName = str("gameIdOrSomething.json")
+    #init parser
+    options = Options()
+    options.headless = True
+    path_to_chromedriver = 'C:/chromedriver' # change path as needed
+    browser = webdriver.Chrome(path_to_chromedriver, options=options)
+    browser.get(url)
+    jsonName = str(browser.find_element("xpath", '/html/body/center/font/h3/font').text)
     file_exists = exists(jsonName)
 
     #TODO: make some kind of cache that knows if we generated this file not too long ago so we dont have to
@@ -24,18 +34,6 @@ def gameParser():
                 for down in qrt:
                     if down.get('description') == 'FINAL SCORE':
                         return quarters
-
-    #init parser
-    options = Options()
-    options.headless = True
-    path_to_chromedriver = 'C:/chromedriver' # change path as needed
-    browser = webdriver.Chrome(path_to_chromedriver, options=options)
-
-    url = 'http://www.sajl.org/images/tilastot/roosters-crocodiles-20-08-2022.shtml'
-
-
-    
-    browser.get(url)
 
     # get and set team names 
     # homeTeamName = browser.find_element("xpath",'/html/body/center/font/font[1]/center/p[3]/table/tbody/tr[3]/td[1]/font/b').text
