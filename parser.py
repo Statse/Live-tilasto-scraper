@@ -69,6 +69,23 @@ def gameParser(url):
             
             if "PENALTY" in description:
                 penalty = True
+            
+            playType = {
+                "playType": GetPlayType(description),
+                "direction": GetDirection(description),
+                "result": GetPlayResult(description)
+            }
+
+            parsedDownAndDistance = downAndDistance.split("-")
+            down = ""
+            distance = ""
+            if (len(parsedDownAndDistance) > 1):
+                down = parsedDownAndDistance[0]
+                distance = parsedDownAndDistance[1]
+         
+
+
+
 
             if (description.startswith("Drive:")):
                 drive = {
@@ -77,15 +94,23 @@ def gameParser(url):
                 }
                 drives.append(drive)
                 downs = []
+            elif  (False):
+                return ""
             else:
                 down = {
                     "id": downId,
                     "qrt": currentQuarter,
+                    "homeScore": "",
+                    "awayScore": "",
                     "team": team,
                     "downAndDistance": downAndDistance,
+                    "down": down,
+                    "distance": distance,
                     "ballPosition": ballPosition,
                     "description": description,
-                    "penalty": penalty
+                    "playType": playType,
+                    "penalty": penalty,
+                    "clock": ""
                 }
                 downs.append(down)
 
@@ -97,12 +122,13 @@ def gameParser(url):
     browser.quit()
 
     gameObject = {
-        "home": homeTeamName,
-        "away": awayTeamName,
-        "quarters": quarters
-    }
+            "home": homeTeamName,
+            "away": awayTeamName,
+            "quarters": quarters
+        }
+    
 
-    gameObjectJson = json.dumps([gameObject])
+    gameObjectJson = json.dumps(gameObject)
     jsonFile = open(jsonName, "w")
     jsonFile.write(json.dumps(gameObjectJson))
     jsonFile.close()
@@ -112,3 +138,51 @@ def gameParser(url):
 # run this separately if needed
 if __name__ == '__main__':
     gameParser()
+
+def GetPlayResult(description):
+    if "incomplete" in description:
+        return "incomplete"
+    if "downed" in description:
+        return "downed"
+    if "complete" in description:
+        return "complete"
+    if "MISSED" in description:
+        return "MISSED"
+
+    return ""
+
+def GetPlayType(description):
+    if "punt" in description:
+        return "punt"
+    if "kickoff" in description:
+        return "kickoff"
+    if "pass" in description:
+        return "pass"
+    if "rush" in description:
+        return "rush"
+    if "field goal" in description:
+        return "field goal"
+    if "Timeout" in description:
+        return "timeout"
+        
+    return ""
+
+def GetDirection(description):
+    if "left" in description:
+       return  "left"
+    if "right" in description:
+       return  "right"
+    if "middle" in description:
+       return  "middle"
+       
+    return ""
+
+def GetPassLenght(description):
+    if "short" in description:
+       return  "short"
+    if "deep" in description:
+       return  "deep"
+    if "middle" in description:
+       return  "middle"
+       
+    return ""
