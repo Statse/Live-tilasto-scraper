@@ -91,7 +91,7 @@ def gameParser(url):
                 drives.append(drive)
                 downs = []
             elif  (False):
-                #figure out here how to manage PAT etc
+                #TODO: figure out here how to manage PAT etc
                 return ""
             else:
                 down = {
@@ -145,6 +145,8 @@ def GetPlayResult(description):
         return "complete"
     if "MISSED" in description:
         return "MISSED"
+    if "good" in description:
+        return "good"
 
     return ""
 
@@ -161,6 +163,11 @@ def GetPlayType(description):
         return "field goal"
     if "Timeout" in description:
         return "timeout"
+    if "kick attempt" in description:
+        return "pat"
+    if "2ptconv" in description:
+        #TODO: how to get actually 2pt conversion
+        return "2pt"
         
     return ""
 
