@@ -83,10 +83,6 @@ def gameParser(url):
                 down = parsedDownAndDistance[0]
                 distance = parsedDownAndDistance[1]
          
-
-
-
-
             if (description.startswith("Drive:")):
                 drive = {
                     "summary": description,
@@ -95,6 +91,7 @@ def gameParser(url):
                 drives.append(drive)
                 downs = []
             elif  (False):
+                #figure out here how to manage PAT etc
                 return ""
             else:
                 down = {
