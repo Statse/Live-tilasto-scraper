@@ -10,7 +10,7 @@ def index():
 @api.route('/game', methods=['GET'])
 def get_game_stats():
   args = request.args
-  gameUrl = args.get("gameUrl", default="http://www.sajl.org/images/tilastot/roosters-steelers-14-05-2022.shtml", type=str)
+  gameUrl = args.get("url", default="http://www.sajl.org/images/tilastot/roosters-steelers-14-05-2022.shtml", type=str)
   return gameParser(gameUrl)
 
 if __name__ == '__main__':

@@ -125,9 +125,9 @@ def gameParser(url):
         }
     
 
-    gameObjectJson = json.dumps(gameObject)
+    gameObjectJson = json.dumps(gameObject, indent=1, sort_keys=True)
     jsonFile = open(jsonName, "w")
-    jsonFile.write(json.dumps(gameObjectJson))
+    jsonFile.write(gameObjectJson)
     jsonFile.close()
 
     return gameObjectJson

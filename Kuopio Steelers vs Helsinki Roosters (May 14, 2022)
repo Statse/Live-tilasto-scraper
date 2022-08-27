@@ -1,0 +1,3644 @@
+{
+ "away": "Kuopio Steelers",
+ "home": "Helsinki Roosters",
+ "quarters": [
+  [
+   {
+    "downs": [
+     {
+      "awayScore": "",
+      "ballPosition": "",
+      "clock": "",
+      "description": "Roosters siirsi valinnan. Steelers palauttaa lansipaadysta.",
+      "distance": "",
+      "down": "",
+      "downAndDistance": "",
+      "homeScore": "",
+      "id": "1",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "",
+       "result": ""
+      },
+      "qrt": "1",
+      "team": ""
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste35",
+      "clock": "",
+      "description": "ROO ball on ROO35.",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "2",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "",
+       "result": ""
+      },
+      "qrt": "1",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "",
+      "clock": "",
+      "description": "Rontu V kickoff 55 yards to the STE10, Reasnover L return 18 yards to the STE28 (Bernat N;Vehkomaki San).",
+      "distance": "",
+      "down": "",
+      "downAndDistance": "",
+      "homeScore": "",
+      "id": "3",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "kickoff",
+       "result": ""
+      },
+      "qrt": "1",
+      "team": ""
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste28",
+      "clock": "",
+      "description": "Reasnover L rush over right guard for 3 yards to the STE31 (Berg C;Lagstrom N).",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "4",
+      "penalty": false,
+      "playType": {
+       "direction": "right",
+       "playType": "rush",
+       "result": ""
+      },
+      "qrt": "1",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste31",
+      "clock": "",
+      "description": "Marshall I rush over right end for 8 yards to the STE39, 1ST DOWN STE (Oksanen T;Lagstrom N).",
+      "distance": "7",
+      "down": "2",
+      "downAndDistance": "2-7",
+      "homeScore": "",
+      "id": "5",
+      "penalty": false,
+      "playType": {
+       "direction": "right",
+       "playType": "rush",
+       "result": ""
+      },
+      "qrt": "1",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste39",
+      "clock": "",
+      "description": "Reasnover L rush over right end for 6 yards to the STE45 (Jaradat M).",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "6",
+      "penalty": false,
+      "playType": {
+       "direction": "right",
+       "playType": "rush",
+       "result": ""
+      },
+      "qrt": "1",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste45",
+      "clock": "",
+      "description": "Harju H rush over left end for loss of 1 yard to the STE44 (Bernat N;Aronpaa T).",
+      "distance": "4",
+      "down": "2",
+      "downAndDistance": "2-4",
+      "homeScore": "",
+      "id": "7",
+      "penalty": false,
+      "playType": {
+       "direction": "left",
+       "playType": "rush",
+       "result": ""
+      },
+      "qrt": "1",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste44",
+      "clock": "",
+      "description": "Bradley J rush for loss of 3 yards to the STE41, fumble by Bradley J recovered by STE Bradley J at STE39 (Jaradat M).",
+      "distance": "5",
+      "down": "3",
+      "downAndDistance": "3-5",
+      "homeScore": "",
+      "id": "8",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "rush",
+       "result": ""
+      },
+      "qrt": "1",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste39",
+      "clock": "",
+      "description": "Ojainvali M punt 41 yards to the ROO20, fair catch by Bernat N.",
+      "distance": "10",
+      "down": "4",
+      "downAndDistance": "4-10",
+      "homeScore": "",
+      "id": "9",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "punt",
+       "result": ""
+      },
+      "qrt": "1",
+      "team": "Ste"
+     }
+    ],
+    "summary": "Drive: 5 plays, 11 yards, TOP 03:32"
+   },
+   {
+    "downs": [
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo20",
+      "clock": "",
+      "description": "HELSINKI ROOSTERS drive start at 08:28.",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "11",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "",
+       "result": ""
+      },
+      "qrt": "1",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo20",
+      "clock": "",
+      "description": "Stancombe B short right pass incomplete to Vehkomaki San, dropped pass.",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "12",
+      "penalty": false,
+      "playType": {
+       "direction": "right",
+       "playType": "pass",
+       "result": "incomplete"
+      },
+      "qrt": "1",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo20",
+      "clock": "",
+      "description": "Stancombe B short middle pass complete to Nicault A for 30 yards to the 50 yardline, 1ST DOWN ROO (Pekkarinen I).",
+      "distance": "10",
+      "down": "2",
+      "downAndDistance": "2-10",
+      "homeScore": "",
+      "id": "13",
+      "penalty": false,
+      "playType": {
+       "direction": "middle",
+       "playType": "pass",
+       "result": "complete"
+      },
+      "qrt": "1",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo50",
+      "clock": "",
+      "description": "Mikkonen A rush over left guard for 6 yards to the STE44 (Leonard C;Hietajarvi H).",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "14",
+      "penalty": false,
+      "playType": {
+       "direction": "left",
+       "playType": "rush",
+       "result": ""
+      },
+      "qrt": "1",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste44",
+      "clock": "",
+      "description": "Nicault A rush over right end for 5 yards to the STE39, 1ST DOWN ROO, out-of-bounds (Tuominen T).",
+      "distance": "4",
+      "down": "2",
+      "downAndDistance": "2-4",
+      "homeScore": "",
+      "id": "15",
+      "penalty": false,
+      "playType": {
+       "direction": "right",
+       "playType": "rush",
+       "result": ""
+      },
+      "qrt": "1",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste39",
+      "clock": "",
+      "description": "Stancombe B short right pass complete to Nicault A for 7 yards to the STE32, out-of-bounds.",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "16",
+      "penalty": false,
+      "playType": {
+       "direction": "right",
+       "playType": "pass",
+       "result": "complete"
+      },
+      "qrt": "1",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste32",
+      "clock": "",
+      "description": "Stancombe B pass incomplete.",
+      "distance": "3",
+      "down": "2",
+      "downAndDistance": "2-3",
+      "homeScore": "",
+      "id": "17",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "pass",
+       "result": "incomplete"
+      },
+      "qrt": "1",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste32",
+      "clock": "",
+      "description": "Stancombe B short right pass complete to Rainio V for 3 yards to the STE29, 1ST DOWN ROO (Pekkarinen I).",
+      "distance": "3",
+      "down": "3",
+      "downAndDistance": "3-3",
+      "homeScore": "",
+      "id": "18",
+      "penalty": false,
+      "playType": {
+       "direction": "right",
+       "playType": "pass",
+       "result": "complete"
+      },
+      "qrt": "1",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste29",
+      "clock": "",
+      "description": "Mikkonen A rush over right tackle for loss of 2 yards to the STE31 (Ndongo T).",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "19",
+      "penalty": false,
+      "playType": {
+       "direction": "right",
+       "playType": "rush",
+       "result": ""
+      },
+      "qrt": "1",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste31",
+      "clock": "",
+      "description": "Stancombe B short right pass incomplete to Pitkanen T.",
+      "distance": "12",
+      "down": "2",
+      "downAndDistance": "2-12",
+      "homeScore": "",
+      "id": "20",
+      "penalty": false,
+      "playType": {
+       "direction": "right",
+       "playType": "pass",
+       "result": "incomplete"
+      },
+      "qrt": "1",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste31",
+      "clock": "",
+      "description": "Stancombe B short right pass complete to Pitkanen T for 8 yards to the STE23 (Ojainvali M).",
+      "distance": "12",
+      "down": "3",
+      "downAndDistance": "3-12",
+      "homeScore": "",
+      "id": "21",
+      "penalty": false,
+      "playType": {
+       "direction": "right",
+       "playType": "pass",
+       "result": "complete"
+      },
+      "qrt": "1",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste23",
+      "clock": "",
+      "description": "Stancombe B short middle pass complete to Vehkomaki San for 23 yards to the STE0, 1ST DOWN ROO, TOUCHDOWN, clock 04:32.",
+      "distance": "4",
+      "down": "4",
+      "downAndDistance": "4-4",
+      "homeScore": "",
+      "id": "22",
+      "penalty": false,
+      "playType": {
+       "direction": "middle",
+       "playType": "pass",
+       "result": "complete"
+      },
+      "qrt": "1",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "",
+      "clock": "",
+      "description": "Rontu V kick attempt failed (blocked) (blocked by Team Steelers).",
+      "distance": "",
+      "down": "",
+      "downAndDistance": "",
+      "homeScore": "",
+      "id": "23",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "pat",
+       "result": ""
+      },
+      "qrt": "1",
+      "team": ""
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "",
+      "clock": "",
+      "description": "Helsinki Roosters 6, Kuopio Steelers 0",
+      "distance": "",
+      "down": "",
+      "downAndDistance": "",
+      "homeScore": "",
+      "id": "24",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "",
+       "result": ""
+      },
+      "qrt": "1",
+      "team": ""
+     }
+    ],
+    "summary": "Drive: 11 plays, 80 yards, TOP 04:03"
+   },
+   {
+    "downs": [
+     {
+      "awayScore": "",
+      "ballPosition": "",
+      "clock": "",
+      "description": "Rontu V kickoff 47 yards to the STE18, Reasnover L return 17 yards to the STE35 (Nylund T;Bernat N).",
+      "distance": "",
+      "down": "",
+      "downAndDistance": "",
+      "homeScore": "",
+      "id": "26",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "kickoff",
+       "result": ""
+      },
+      "qrt": "1",
+      "team": ""
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste35",
+      "clock": "",
+      "description": "KUOPIO STEELERS drive start at 04:25.",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "27",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "",
+       "result": ""
+      },
+      "qrt": "1",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste35",
+      "clock": "",
+      "description": "Bradley J short middle pass complete to Paakki I-P for 21 yards to the ROO44, 1ST DOWN STE (Oksanen T).",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "28",
+      "penalty": false,
+      "playType": {
+       "direction": "middle",
+       "playType": "pass",
+       "result": "complete"
+      },
+      "qrt": "1",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo44",
+      "clock": "",
+      "description": "Bradley J short left pass complete to Reasnover L for 12 yards to the ROO32, 1ST DOWN STE (Nylund T;Aronpaa T).",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "29",
+      "penalty": false,
+      "playType": {
+       "direction": "left",
+       "playType": "pass",
+       "result": "complete"
+      },
+      "qrt": "1",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo32",
+      "clock": "",
+      "description": "Bradley J short left pass incomplete to Lindsten V.",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "30",
+      "penalty": false,
+      "playType": {
+       "direction": "left",
+       "playType": "pass",
+       "result": "incomplete"
+      },
+      "qrt": "1",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo32",
+      "clock": "",
+      "description": "Reasnover L rush over right tackle for 2 yards to the ROO30 (Rontu V;Lagstrom N).",
+      "distance": "10",
+      "down": "2",
+      "downAndDistance": "2-10",
+      "homeScore": "",
+      "id": "31",
+      "penalty": false,
+      "playType": {
+       "direction": "right",
+       "playType": "rush",
+       "result": ""
+      },
+      "qrt": "1",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo30",
+      "clock": "",
+      "description": "Bradley J screen left pass complete to Lindsten V for 8 yards to the ROO22, 1ST DOWN STE (Aronpaa T;Salminen W).",
+      "distance": "8",
+      "down": "3",
+      "downAndDistance": "3-8",
+      "homeScore": "",
+      "id": "32",
+      "penalty": false,
+      "playType": {
+       "direction": "left",
+       "playType": "pass",
+       "result": "complete"
+      },
+      "qrt": "1",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo22",
+      "clock": "",
+      "description": "Bradley J short left pass complete to Lindsten V for 22 yards to the ROO0, 1ST DOWN STE, TOUCHDOWN, clock 01:19.",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "33",
+      "penalty": false,
+      "playType": {
+       "direction": "left",
+       "playType": "pass",
+       "result": "complete"
+      },
+      "qrt": "1",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "",
+      "clock": "",
+      "description": "Ojainvali M kick attempt good.",
+      "distance": "",
+      "down": "",
+      "downAndDistance": "",
+      "homeScore": "",
+      "id": "34",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "pat",
+       "result": "good"
+      },
+      "qrt": "1",
+      "team": ""
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "",
+      "clock": "",
+      "description": "Kuopio Steelers 7, Helsinki Roosters 6",
+      "distance": "",
+      "down": "",
+      "downAndDistance": "",
+      "homeScore": "",
+      "id": "35",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "",
+       "result": ""
+      },
+      "qrt": "1",
+      "team": ""
+     }
+    ],
+    "summary": "Drive: 6 plays, 65 yards, TOP 03:11"
+   },
+   {
+    "downs": [
+     {
+      "awayScore": "",
+      "ballPosition": "",
+      "clock": "",
+      "description": "Pekkarinen I kickoff 64 yards to the ROO1, Kajander W return 20 yards to the ROO21 (Choate N).",
+      "distance": "",
+      "down": "",
+      "downAndDistance": "",
+      "homeScore": "",
+      "id": "37",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "kickoff",
+       "result": ""
+      },
+      "qrt": "1",
+      "team": ""
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo21",
+      "clock": "",
+      "description": "HELSINKI ROOSTERS drive start at 01:14.",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "38",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "",
+       "result": ""
+      },
+      "qrt": "1",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo21",
+      "clock": "",
+      "description": "Stancombe B short middle pass complete to Nicault A for 8 yards to the ROO29 (Leonard C).",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "39",
+      "penalty": false,
+      "playType": {
+       "direction": "middle",
+       "playType": "pass",
+       "result": "complete"
+      },
+      "qrt": "1",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo29",
+      "clock": "",
+      "description": "Mikkonen A rush over left guard for 4 yards to the ROO33, 1ST DOWN ROO (Leonard C).",
+      "distance": "2",
+      "down": "2",
+      "downAndDistance": "2-2",
+      "homeScore": "",
+      "id": "40",
+      "penalty": false,
+      "playType": {
+       "direction": "left",
+       "playType": "rush",
+       "result": ""
+      },
+      "qrt": "1",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo33",
+      "clock": "",
+      "description": "Stancombe B short left pass complete to Vehkomaki San for 4 yards to the ROO37 (Pekkarinen I).",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "41",
+      "penalty": false,
+      "playType": {
+       "direction": "left",
+       "playType": "pass",
+       "result": "complete"
+      },
+      "qrt": "1",
+      "team": "Roo"
+     }
+    ],
+    "summary": "Drive: 3 plays, 16 yards, TOP 02:57"
+   }
+  ],
+  [
+   {
+    "downs": [
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo37",
+      "clock": "",
+      "description": "Start of 2nd quarter, clock 12:00.",
+      "distance": "6",
+      "down": "2",
+      "downAndDistance": "2-6",
+      "homeScore": "",
+      "id": "1",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "",
+       "result": ""
+      },
+      "qrt": "2",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo37",
+      "clock": "",
+      "description": "Stancombe B sacked for loss of 8 yards to the ROO29 (Allen I).",
+      "distance": "6",
+      "down": "2",
+      "downAndDistance": "2-6",
+      "homeScore": "",
+      "id": "2",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "",
+       "result": ""
+      },
+      "qrt": "2",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo29",
+      "clock": "",
+      "description": "Stancombe B sacked for loss of 7 yards to the ROO22 (Degas B;Lindqvist J).",
+      "distance": "14",
+      "down": "3",
+      "downAndDistance": "3-14",
+      "homeScore": "",
+      "id": "3",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "",
+       "result": ""
+      },
+      "qrt": "2",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo22",
+      "clock": "",
+      "description": "Deadball foul, PENALTY ROO delay of game 5 yards to the ROO17, NO PLAY.",
+      "distance": "21",
+      "down": "4",
+      "downAndDistance": "4-21",
+      "homeScore": "",
+      "id": "4",
+      "penalty": true,
+      "playType": {
+       "direction": "",
+       "playType": "",
+       "result": ""
+      },
+      "qrt": "2",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo17",
+      "clock": "",
+      "description": "Rontu V punt 13 yards to the ROO30, out-of-bounds.",
+      "distance": "26",
+      "down": "4",
+      "downAndDistance": "4-26",
+      "homeScore": "",
+      "id": "5",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "punt",
+       "result": ""
+      },
+      "qrt": "2",
+      "team": "Roo"
+     }
+    ],
+    "summary": "Drive: 5 plays, minus 4 yards, TOP 02:57"
+   },
+   {
+    "downs": [
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo30",
+      "clock": "",
+      "description": "KUOPIO STEELERS drive start at 10:17.",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "7",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "",
+       "result": ""
+      },
+      "qrt": "2",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo30",
+      "clock": "",
+      "description": "Reasnover L rush over left end for 30 yards to the ROO0, 1ST DOWN STE, TOUCHDOWN, clock 10:06, PENALTY ROO offside defense declined.",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "8",
+      "penalty": true,
+      "playType": {
+       "direction": "left",
+       "playType": "rush",
+       "result": ""
+      },
+      "qrt": "2",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "",
+      "clock": "",
+      "description": "Ojainvali M kick attempt good.",
+      "distance": "",
+      "down": "",
+      "downAndDistance": "",
+      "homeScore": "",
+      "id": "9",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "pat",
+       "result": "good"
+      },
+      "qrt": "2",
+      "team": ""
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "",
+      "clock": "",
+      "description": "Kuopio Steelers 14, Helsinki Roosters 6",
+      "distance": "",
+      "down": "",
+      "downAndDistance": "",
+      "homeScore": "",
+      "id": "10",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "",
+       "result": ""
+      },
+      "qrt": "2",
+      "team": ""
+     }
+    ],
+    "summary": "Drive: 1 plays, 30 yards, TOP 00:11"
+   },
+   {
+    "downs": [
+     {
+      "awayScore": "",
+      "ballPosition": "",
+      "clock": "",
+      "description": "Pekkarinen I kickoff 65 yards to the ROO0, touchback.",
+      "distance": "",
+      "down": "",
+      "downAndDistance": "",
+      "homeScore": "",
+      "id": "12",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "kickoff",
+       "result": ""
+      },
+      "qrt": "2",
+      "team": ""
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo20",
+      "clock": "",
+      "description": "HELSINKI ROOSTERS drive start at 10:06.",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "13",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "",
+       "result": ""
+      },
+      "qrt": "2",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo20",
+      "clock": "",
+      "description": "Nicault A rush over left end for loss of 4 yards to the ROO16 (Leonard C).",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "14",
+      "penalty": false,
+      "playType": {
+       "direction": "left",
+       "playType": "rush",
+       "result": ""
+      },
+      "qrt": "2",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo16",
+      "clock": "",
+      "description": "Stancombe B deep right pass incomplete to Nicault A.",
+      "distance": "14",
+      "down": "2",
+      "downAndDistance": "2-14",
+      "homeScore": "",
+      "id": "15",
+      "penalty": false,
+      "playType": {
+       "direction": "right",
+       "playType": "pass",
+       "result": "incomplete"
+      },
+      "qrt": "2",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo16",
+      "clock": "",
+      "description": "Stancombe B short left pass complete to Pitkanen T for 11 yards to the ROO27 (Pekkarinen I;Degas B).",
+      "distance": "14",
+      "down": "3",
+      "downAndDistance": "3-14",
+      "homeScore": "",
+      "id": "16",
+      "penalty": false,
+      "playType": {
+       "direction": "left",
+       "playType": "pass",
+       "result": "complete"
+      },
+      "qrt": "2",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo27",
+      "clock": "",
+      "description": "Rontu V punt 13 yards to the ROO40, out-of-bounds.",
+      "distance": "3",
+      "down": "4",
+      "downAndDistance": "4-3",
+      "homeScore": "",
+      "id": "17",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "punt",
+       "result": ""
+      },
+      "qrt": "2",
+      "team": "Roo"
+     }
+    ],
+    "summary": "Drive: 3 plays, 7 yards, TOP 02:04"
+   },
+   {
+    "downs": [
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo40",
+      "clock": "",
+      "description": "KUOPIO STEELERS drive start at 08:02.",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "19",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "",
+       "result": ""
+      },
+      "qrt": "2",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo40",
+      "clock": "",
+      "description": "Reasnover L rush over right end for 11 yards to the ROO29, 1ST DOWN STE, out-of-bounds (Tuovinen E).",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "20",
+      "penalty": false,
+      "playType": {
+       "direction": "right",
+       "playType": "rush",
+       "result": ""
+      },
+      "qrt": "2",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo29",
+      "clock": "",
+      "description": "Bradley J short left pass incomplete to Lindsten V, dropped pass.",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "21",
+      "penalty": false,
+      "playType": {
+       "direction": "left",
+       "playType": "pass",
+       "result": "incomplete"
+      },
+      "qrt": "2",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo29",
+      "clock": "",
+      "description": "Reasnover L rush over left guard for 2 yards to the ROO27 (Wezdenko K).",
+      "distance": "10",
+      "down": "2",
+      "downAndDistance": "2-10",
+      "homeScore": "",
+      "id": "22",
+      "penalty": false,
+      "playType": {
+       "direction": "left",
+       "playType": "rush",
+       "result": ""
+      },
+      "qrt": "2",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo27",
+      "clock": "",
+      "description": "Bradley J short left pass complete to Marshall I for 6 yards to the ROO21 (Lagstrom N).",
+      "distance": "8",
+      "down": "3",
+      "downAndDistance": "3-8",
+      "homeScore": "",
+      "id": "23",
+      "penalty": false,
+      "playType": {
+       "direction": "left",
+       "playType": "pass",
+       "result": "complete"
+      },
+      "qrt": "2",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo21",
+      "clock": "",
+      "description": "Bradley J short middle pass complete to Lindsten V for 21 yards to the ROO0, 1ST DOWN STE, TOUCHDOWN, clock 05:55.",
+      "distance": "2",
+      "down": "4",
+      "downAndDistance": "4-2",
+      "homeScore": "",
+      "id": "24",
+      "penalty": false,
+      "playType": {
+       "direction": "middle",
+       "playType": "pass",
+       "result": "complete"
+      },
+      "qrt": "2",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "",
+      "clock": "",
+      "description": "Ojainvali M kick attempt good.",
+      "distance": "",
+      "down": "",
+      "downAndDistance": "",
+      "homeScore": "",
+      "id": "25",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "pat",
+       "result": "good"
+      },
+      "qrt": "2",
+      "team": ""
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "",
+      "clock": "",
+      "description": "Kuopio Steelers 21, Helsinki Roosters 6",
+      "distance": "",
+      "down": "",
+      "downAndDistance": "",
+      "homeScore": "",
+      "id": "26",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "",
+       "result": ""
+      },
+      "qrt": "2",
+      "team": ""
+     }
+    ],
+    "summary": "Drive: 5 plays, 40 yards, TOP 02:12"
+   },
+   {
+    "downs": [
+     {
+      "awayScore": "",
+      "ballPosition": "",
+      "clock": "",
+      "description": "Pekkarinen I kickoff 61 yards to the ROO4, Bernat N return 17 yards to the ROO21, out-of-bounds.",
+      "distance": "",
+      "down": "",
+      "downAndDistance": "",
+      "homeScore": "",
+      "id": "28",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "kickoff",
+       "result": ""
+      },
+      "qrt": "2",
+      "team": ""
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo21",
+      "clock": "",
+      "description": "HELSINKI ROOSTERS drive start at 05:50.",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "29",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "",
+       "result": ""
+      },
+      "qrt": "2",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo21",
+      "clock": "",
+      "description": "Timeout Kuopio Steelers, clock 05:50.",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "30",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "timeout",
+       "result": ""
+      },
+      "qrt": "2",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo21",
+      "clock": "",
+      "description": "Stancombe B short middle pass incomplete to Vehkomaki San, dropped pass.",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "31",
+      "penalty": false,
+      "playType": {
+       "direction": "middle",
+       "playType": "pass",
+       "result": "incomplete"
+      },
+      "qrt": "2",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo21",
+      "clock": "",
+      "description": "Nicault A rush over right guard for loss of 2 yards to the ROO19 (Ndongo T;Pekkarinen I).",
+      "distance": "10",
+      "down": "2",
+      "downAndDistance": "2-10",
+      "homeScore": "",
+      "id": "32",
+      "penalty": false,
+      "playType": {
+       "direction": "right",
+       "playType": "rush",
+       "result": ""
+      },
+      "qrt": "2",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo19",
+      "clock": "",
+      "description": "Stancombe B short left pass complete to Vehkomaki San for 10 yards to the ROO29, out-of-bounds (Ndongo T).",
+      "distance": "12",
+      "down": "3",
+      "downAndDistance": "3-12",
+      "homeScore": "",
+      "id": "33",
+      "penalty": false,
+      "playType": {
+       "direction": "left",
+       "playType": "pass",
+       "result": "complete"
+      },
+      "qrt": "2",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo29",
+      "clock": "",
+      "description": "Timeout Helsinki Roosters, clock 04:34.",
+      "distance": "2",
+      "down": "4",
+      "downAndDistance": "4-2",
+      "homeScore": "",
+      "id": "34",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "timeout",
+       "result": ""
+      },
+      "qrt": "2",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo29",
+      "clock": "",
+      "description": "Stancombe B short right pass complete to Rainio V for 8 yards to the ROO37, 1ST DOWN ROO (Laine R).",
+      "distance": "2",
+      "down": "4",
+      "downAndDistance": "4-2",
+      "homeScore": "",
+      "id": "35",
+      "penalty": false,
+      "playType": {
+       "direction": "right",
+       "playType": "pass",
+       "result": "complete"
+      },
+      "qrt": "2",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo37",
+      "clock": "",
+      "description": "Stancombe B short right pass complete to Vehkomaki San for 7 yards to the ROO44, out-of-bounds (Ndongo T).",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "36",
+      "penalty": false,
+      "playType": {
+       "direction": "right",
+       "playType": "pass",
+       "result": "complete"
+      },
+      "qrt": "2",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo44",
+      "clock": "",
+      "description": "Mikkonen A rush over left guard for 4 yards to the ROO48, 1ST DOWN ROO (Lindqvist J;Tuppurainen T).",
+      "distance": "3",
+      "down": "2",
+      "downAndDistance": "2-3",
+      "homeScore": "",
+      "id": "37",
+      "penalty": false,
+      "playType": {
+       "direction": "left",
+       "playType": "rush",
+       "result": ""
+      },
+      "qrt": "2",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo48",
+      "clock": "",
+      "description": "Stancombe B short middle pass incomplete to Nicault A, dropped pass.",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "38",
+      "penalty": false,
+      "playType": {
+       "direction": "middle",
+       "playType": "pass",
+       "result": "incomplete"
+      },
+      "qrt": "2",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo48",
+      "clock": "",
+      "description": "Stancombe B short middle pass incomplete to Vehkomaki San, dropped pass.",
+      "distance": "10",
+      "down": "2",
+      "downAndDistance": "2-10",
+      "homeScore": "",
+      "id": "39",
+      "penalty": false,
+      "playType": {
+       "direction": "middle",
+       "playType": "pass",
+       "result": "incomplete"
+      },
+      "qrt": "2",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo48",
+      "clock": "",
+      "description": "Stancombe B deep left pass incomplete, PENALTY STE roughing passer (Degas B) 15 yards to the STE37, 1ST DOWN ROO, NO PLAY.",
+      "distance": "10",
+      "down": "3",
+      "downAndDistance": "3-10",
+      "homeScore": "",
+      "id": "40",
+      "penalty": true,
+      "playType": {
+       "direction": "left",
+       "playType": "pass",
+       "result": "incomplete"
+      },
+      "qrt": "2",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste37",
+      "clock": "",
+      "description": "Stancombe B deep right pass incomplete to Rainio V, PENALTY STE pass interference (Ndongo T) 15 yards to the STE22, 1ST DOWN ROO, NO PLAY.",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "41",
+      "penalty": true,
+      "playType": {
+       "direction": "right",
+       "playType": "pass",
+       "result": "incomplete"
+      },
+      "qrt": "2",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste22",
+      "clock": "",
+      "description": "Stancombe B deep left pass incomplete to Nicault A.",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "42",
+      "penalty": false,
+      "playType": {
+       "direction": "left",
+       "playType": "pass",
+       "result": "incomplete"
+      },
+      "qrt": "2",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste22",
+      "clock": "",
+      "description": "Mikkonen A rush over left guard for 3 yards to the STE19 (Tuppurainen T).",
+      "distance": "10",
+      "down": "2",
+      "downAndDistance": "2-10",
+      "homeScore": "",
+      "id": "43",
+      "penalty": false,
+      "playType": {
+       "direction": "left",
+       "playType": "rush",
+       "result": ""
+      },
+      "qrt": "2",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste19",
+      "clock": "",
+      "description": "Stancombe B deep right pass incomplete.",
+      "distance": "7",
+      "down": "3",
+      "downAndDistance": "3-7",
+      "homeScore": "",
+      "id": "44",
+      "penalty": false,
+      "playType": {
+       "direction": "right",
+       "playType": "pass",
+       "result": "incomplete"
+      },
+      "qrt": "2",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste19",
+      "clock": "",
+      "description": "Stancombe B deep right pass incomplete to Vehkomaki San.",
+      "distance": "7",
+      "down": "4",
+      "downAndDistance": "4-7",
+      "homeScore": "",
+      "id": "45",
+      "penalty": false,
+      "playType": {
+       "direction": "right",
+       "playType": "pass",
+       "result": "incomplete"
+      },
+      "qrt": "2",
+      "team": "Roo"
+     }
+    ],
+    "summary": "Drive: 12 plays, 60 yards, TOP 03:59"
+   },
+   {
+    "downs": [
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste19",
+      "clock": "",
+      "description": "KUOPIO STEELERS drive start at 01:51.",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "47",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "",
+       "result": ""
+      },
+      "qrt": "2",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste19",
+      "clock": "",
+      "description": "Bradley J screen right pass complete to Harju H for 5 yards to the STE24, out-of-bounds (Oksanen T).",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "48",
+      "penalty": false,
+      "playType": {
+       "direction": "right",
+       "playType": "pass",
+       "result": "complete"
+      },
+      "qrt": "2",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste24",
+      "clock": "",
+      "description": "Bradley J short middle pass complete to Marshall I for 12 yards to the STE36, 1ST DOWN STE (Lagstrom N;Aronpaa T).",
+      "distance": "5",
+      "down": "2",
+      "downAndDistance": "2-5",
+      "homeScore": "",
+      "id": "49",
+      "penalty": false,
+      "playType": {
+       "direction": "middle",
+       "playType": "pass",
+       "result": "complete"
+      },
+      "qrt": "2",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste36",
+      "clock": "",
+      "description": "Timeout Kuopio Steelers, clock 01:31.",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "50",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "timeout",
+       "result": ""
+      },
+      "qrt": "2",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste36",
+      "clock": "",
+      "description": "Bradley J screen right pass complete to Lindsten V for 24 yards to the ROO40, 1ST DOWN STE (Tuovinen E;Rontu V).",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "51",
+      "penalty": false,
+      "playType": {
+       "direction": "right",
+       "playType": "pass",
+       "result": "complete"
+      },
+      "qrt": "2",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo40",
+      "clock": "",
+      "description": "Bradley J rush scrambling for 4 yards to the ROO36, out-of-bounds (Oksanen T).",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "52",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "rush",
+       "result": ""
+      },
+      "qrt": "2",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo36",
+      "clock": "",
+      "description": "Bradley J deep middle pass complete to Harju H for 19 yards to the ROO17, 1ST DOWN STE (Tuovinen E).",
+      "distance": "6",
+      "down": "2",
+      "downAndDistance": "2-6",
+      "homeScore": "",
+      "id": "53",
+      "penalty": false,
+      "playType": {
+       "direction": "middle",
+       "playType": "pass",
+       "result": "complete"
+      },
+      "qrt": "2",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo17",
+      "clock": "",
+      "description": "Timeout Kuopio Steelers, clock 00:43.",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "54",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "timeout",
+       "result": ""
+      },
+      "qrt": "2",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo17",
+      "clock": "",
+      "description": "Bradley J short right pass complete to Paakki I-P for 10 yards to the ROO7, 1ST DOWN STE (Tuovinen E).",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "55",
+      "penalty": false,
+      "playType": {
+       "direction": "right",
+       "playType": "pass",
+       "result": "complete"
+      },
+      "qrt": "2",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo07",
+      "clock": "",
+      "description": "Bradley J short right pass intercepted by Lagstrom N at the ROO0, Lagstrom N return to the ROO0, touchback, PENALTY ROO pass interference (Oksanen T) 5 yards to the ROO2, 1ST DOWN STE, NO PLAY.",
+      "distance": "G",
+      "down": "1",
+      "downAndDistance": "1-G",
+      "homeScore": "",
+      "id": "56",
+      "penalty": true,
+      "playType": {
+       "direction": "right",
+       "playType": "pass",
+       "result": ""
+      },
+      "qrt": "2",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo02",
+      "clock": "",
+      "description": "Bradley J short middle pass complete to Lindsten V for 2 yards to the ROO0, TOUCHDOWN, clock 00:05.",
+      "distance": "G",
+      "down": "1",
+      "downAndDistance": "1-G",
+      "homeScore": "",
+      "id": "57",
+      "penalty": false,
+      "playType": {
+       "direction": "middle",
+       "playType": "pass",
+       "result": "complete"
+      },
+      "qrt": "2",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "",
+      "clock": "",
+      "description": "Ojainvali M kick attempt good.",
+      "distance": "",
+      "down": "",
+      "downAndDistance": "",
+      "homeScore": "",
+      "id": "58",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "pat",
+       "result": "good"
+      },
+      "qrt": "2",
+      "team": ""
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "",
+      "clock": "",
+      "description": "Kuopio Steelers 28, Helsinki Roosters 6",
+      "distance": "",
+      "down": "",
+      "downAndDistance": "",
+      "homeScore": "",
+      "id": "59",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "",
+       "result": ""
+      },
+      "qrt": "2",
+      "team": ""
+     }
+    ],
+    "summary": "Drive: 7 plays, 81 yards, TOP 01:46"
+   },
+   {
+    "downs": [
+     {
+      "awayScore": "",
+      "ballPosition": "",
+      "clock": "",
+      "description": "Pekkarinen I kickoff 65 yards to the ROO0, touchback.",
+      "distance": "",
+      "down": "",
+      "downAndDistance": "",
+      "homeScore": "",
+      "id": "61",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "kickoff",
+       "result": ""
+      },
+      "qrt": "2",
+      "team": ""
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo20",
+      "clock": "",
+      "description": "HELSINKI ROOSTERS drive start at 00:05.",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "62",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "",
+       "result": ""
+      },
+      "qrt": "2",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo20",
+      "clock": "",
+      "description": "Team Roosters rush kneel down for loss of 1 yard to the ROO19.",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "63",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "rush",
+       "result": ""
+      },
+      "qrt": "2",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo19",
+      "clock": "",
+      "description": "End of half, clock 00:00.",
+      "distance": "11",
+      "down": "2",
+      "downAndDistance": "2-11",
+      "homeScore": "",
+      "id": "64",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "",
+       "result": ""
+      },
+      "qrt": "2",
+      "team": "Roo"
+     }
+    ],
+    "summary": "Drive: 1 plays, minus 1 yards, TOP 00:05"
+   }
+  ],
+  [
+   {
+    "downs": [
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo19",
+      "clock": "",
+      "description": "Start of 3rd quarter, clock 12:00, STE ball on STE35.",
+      "distance": "11",
+      "down": "2",
+      "downAndDistance": "2-11",
+      "homeScore": "",
+      "id": "1",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "",
+       "result": ""
+      },
+      "qrt": "3",
+      "team": "Roo"
+     }
+    ],
+    "summary": "Drive: 1 plays, minus 1 yards, TOP 00:05"
+   },
+   {
+    "downs": [
+     {
+      "awayScore": "",
+      "ballPosition": "",
+      "clock": "",
+      "description": "Pekkarinen I kickoff 45 yards to the ROO20, out-of-bounds, ROO ball on ROO35.",
+      "distance": "",
+      "down": "",
+      "downAndDistance": "",
+      "homeScore": "",
+      "id": "3",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "kickoff",
+       "result": ""
+      },
+      "qrt": "3",
+      "team": ""
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo35",
+      "clock": "",
+      "description": "HELSINKI ROOSTERS drive start at 12:00.",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "4",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "",
+       "result": ""
+      },
+      "qrt": "3",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo35",
+      "clock": "",
+      "description": "Stancombe B deep left pass incomplete to Nicault A.",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "5",
+      "penalty": false,
+      "playType": {
+       "direction": "left",
+       "playType": "pass",
+       "result": "incomplete"
+      },
+      "qrt": "3",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo35",
+      "clock": "",
+      "description": "Stancombe B rush scrambling for 6 yards to the ROO41 (Hietajarvi H).",
+      "distance": "10",
+      "down": "2",
+      "downAndDistance": "2-10",
+      "homeScore": "",
+      "id": "6",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "rush",
+       "result": ""
+      },
+      "qrt": "3",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo41",
+      "clock": "",
+      "description": "Stancombe B deep left pass complete to Nicault A for 59 yards to the STE0, 1ST DOWN ROO, TOUCHDOWN, clock 11:21.",
+      "distance": "4",
+      "down": "3",
+      "downAndDistance": "3-4",
+      "homeScore": "",
+      "id": "7",
+      "penalty": false,
+      "playType": {
+       "direction": "left",
+       "playType": "pass",
+       "result": "complete"
+      },
+      "qrt": "3",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "",
+      "clock": "",
+      "description": "Stancombe B pass attempt to Vehkomaki San good, PENALTY ROO ineligible downfield on pass 5 yards to the STE8, NO PLAY.",
+      "distance": "",
+      "down": "",
+      "downAndDistance": "",
+      "homeScore": "",
+      "id": "8",
+      "penalty": true,
+      "playType": {
+       "direction": "",
+       "playType": "pass",
+       "result": "good"
+      },
+      "qrt": "3",
+      "team": ""
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "",
+      "clock": "",
+      "description": "Stancombe B pass attempt to Nicault A good.",
+      "distance": "",
+      "down": "",
+      "downAndDistance": "",
+      "homeScore": "",
+      "id": "9",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "pass",
+       "result": "good"
+      },
+      "qrt": "3",
+      "team": ""
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "",
+      "clock": "",
+      "description": "Kuopio Steelers 28, Helsinki Roosters 14",
+      "distance": "",
+      "down": "",
+      "downAndDistance": "",
+      "homeScore": "",
+      "id": "10",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "",
+       "result": ""
+      },
+      "qrt": "3",
+      "team": ""
+     }
+    ],
+    "summary": "Drive: 3 plays, 65 yards, TOP 00:40"
+   },
+   {
+    "downs": [
+     {
+      "awayScore": "",
+      "ballPosition": "",
+      "clock": "",
+      "description": "Rontu V kickoff 20 yards to the STE45, on-side kick, recovered by STE Haukka R on STE45.",
+      "distance": "",
+      "down": "",
+      "downAndDistance": "",
+      "homeScore": "",
+      "id": "12",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "kickoff",
+       "result": ""
+      },
+      "qrt": "3",
+      "team": ""
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste45",
+      "clock": "",
+      "description": "KUOPIO STEELERS drive start at 11:20.",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "13",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "",
+       "result": ""
+      },
+      "qrt": "3",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste45",
+      "clock": "",
+      "description": "Reasnover L rush over right guard for 25 yards to the ROO30, 1ST DOWN STE (Tuovinen E).",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "14",
+      "penalty": false,
+      "playType": {
+       "direction": "right",
+       "playType": "rush",
+       "result": ""
+      },
+      "qrt": "3",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo30",
+      "clock": "",
+      "description": "Reasnover L rush over left guard for 1 yard to the ROO29 (Aronpaa T;Wezdenko K).",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "15",
+      "penalty": false,
+      "playType": {
+       "direction": "left",
+       "playType": "rush",
+       "result": ""
+      },
+      "qrt": "3",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo29",
+      "clock": "",
+      "description": "Bradley J deep left pass incomplete to Harju H (Bernat N).",
+      "distance": "9",
+      "down": "2",
+      "downAndDistance": "2-9",
+      "homeScore": "",
+      "id": "16",
+      "penalty": false,
+      "playType": {
+       "direction": "left",
+       "playType": "pass",
+       "result": "incomplete"
+      },
+      "qrt": "3",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo29",
+      "clock": "",
+      "description": "Reasnover L rush over right end for 5 yards to the ROO24 (Oksanen T).",
+      "distance": "9",
+      "down": "3",
+      "downAndDistance": "3-9",
+      "homeScore": "",
+      "id": "17",
+      "penalty": false,
+      "playType": {
+       "direction": "right",
+       "playType": "rush",
+       "result": ""
+      },
+      "qrt": "3",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo24",
+      "clock": "",
+      "description": "Bradley J screen right pass complete to Lindsten V for 12 yards to the ROO12, 1ST DOWN STE (Aronpaa T).",
+      "distance": "4",
+      "down": "4",
+      "downAndDistance": "4-4",
+      "homeScore": "",
+      "id": "18",
+      "penalty": false,
+      "playType": {
+       "direction": "right",
+       "playType": "pass",
+       "result": "complete"
+      },
+      "qrt": "3",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo12",
+      "clock": "",
+      "description": "Reasnover L rush over left guard for 12 yards to the ROO0, 1ST DOWN STE, TOUCHDOWN, clock 08:16.",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "19",
+      "penalty": false,
+      "playType": {
+       "direction": "left",
+       "playType": "rush",
+       "result": ""
+      },
+      "qrt": "3",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "",
+      "clock": "",
+      "description": "Ojainvali M kick attempt good.",
+      "distance": "",
+      "down": "",
+      "downAndDistance": "",
+      "homeScore": "",
+      "id": "20",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "pat",
+       "result": "good"
+      },
+      "qrt": "3",
+      "team": ""
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "",
+      "clock": "",
+      "description": "Kuopio Steelers 35, Helsinki Roosters 14",
+      "distance": "",
+      "down": "",
+      "downAndDistance": "",
+      "homeScore": "",
+      "id": "21",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "",
+       "result": ""
+      },
+      "qrt": "3",
+      "team": ""
+     }
+    ],
+    "summary": "Drive: 6 plays, 55 yards, TOP 03:09"
+   },
+   {
+    "downs": [
+     {
+      "awayScore": "",
+      "ballPosition": "",
+      "clock": "",
+      "description": "Pekkarinen I kickoff 50 yards to the ROO15, Kajander W return 23 yards to the ROO38 (Lehtonen T;Tuppurainen T).",
+      "distance": "",
+      "down": "",
+      "downAndDistance": "",
+      "homeScore": "",
+      "id": "23",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "kickoff",
+       "result": ""
+      },
+      "qrt": "3",
+      "team": ""
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo38",
+      "clock": "",
+      "description": "HELSINKI ROOSTERS drive start at 08:11.",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "24",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "",
+       "result": ""
+      },
+      "qrt": "3",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo38",
+      "clock": "",
+      "description": "Stancombe B deep left pass incomplete to Kajander W.",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "25",
+      "penalty": false,
+      "playType": {
+       "direction": "left",
+       "playType": "pass",
+       "result": "incomplete"
+      },
+      "qrt": "3",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo38",
+      "clock": "",
+      "description": "Stancombe B short right pass complete to Mikkonen A for 14 yards to the STE48, 1ST DOWN ROO, out-of-bounds.",
+      "distance": "10",
+      "down": "2",
+      "downAndDistance": "2-10",
+      "homeScore": "",
+      "id": "26",
+      "penalty": false,
+      "playType": {
+       "direction": "right",
+       "playType": "pass",
+       "result": "complete"
+      },
+      "qrt": "3",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste48",
+      "clock": "",
+      "description": "Mikkonen A rush over right guard for 3 yards to the STE45 (Tuppurainen T;Allen I).",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "27",
+      "penalty": false,
+      "playType": {
+       "direction": "right",
+       "playType": "rush",
+       "result": ""
+      },
+      "qrt": "3",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste45",
+      "clock": "",
+      "description": "Stancombe B short right pass complete to Nicault A for loss of 1 yard to the STE46 (Pekkarinen I).",
+      "distance": "7",
+      "down": "2",
+      "downAndDistance": "2-7",
+      "homeScore": "",
+      "id": "28",
+      "penalty": false,
+      "playType": {
+       "direction": "right",
+       "playType": "pass",
+       "result": "complete"
+      },
+      "qrt": "3",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste46",
+      "clock": "",
+      "description": "Stancombe B deep middle pass incomplete to Soderholm T, dropped pass.",
+      "distance": "8",
+      "down": "3",
+      "downAndDistance": "3-8",
+      "homeScore": "",
+      "id": "29",
+      "penalty": false,
+      "playType": {
+       "direction": "middle",
+       "playType": "pass",
+       "result": "incomplete"
+      },
+      "qrt": "3",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste46",
+      "clock": "",
+      "description": "Stancombe B short middle pass incomplete to Pitkanen T.",
+      "distance": "8",
+      "down": "4",
+      "downAndDistance": "4-8",
+      "homeScore": "",
+      "id": "30",
+      "penalty": false,
+      "playType": {
+       "direction": "middle",
+       "playType": "pass",
+       "result": "incomplete"
+      },
+      "qrt": "3",
+      "team": "Roo"
+     }
+    ],
+    "summary": "Drive: 6 plays, 16 yards, TOP 02:22"
+   },
+   {
+    "downs": [
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste46",
+      "clock": "",
+      "description": "KUOPIO STEELERS drive start at 05:49.",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "32",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "",
+       "result": ""
+      },
+      "qrt": "3",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste46",
+      "clock": "",
+      "description": "Reasnover L rush over right end for no gain to the STE46 (Wezdenko K;Aronpaa T).",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "33",
+      "penalty": false,
+      "playType": {
+       "direction": "right",
+       "playType": "rush",
+       "result": ""
+      },
+      "qrt": "3",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste46",
+      "clock": "",
+      "description": "Reasnover L rush over right end for loss of 2 yards to the STE44 (Rontu V;Wezdenko K).",
+      "distance": "10",
+      "down": "2",
+      "downAndDistance": "2-10",
+      "homeScore": "",
+      "id": "34",
+      "penalty": false,
+      "playType": {
+       "direction": "right",
+       "playType": "rush",
+       "result": ""
+      },
+      "qrt": "3",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste44",
+      "clock": "",
+      "description": "Bradley J screen middle pass intercepted by Aronpaa T at the STE47, Aronpaa T return 0 yards to the STE47.",
+      "distance": "12",
+      "down": "3",
+      "downAndDistance": "3-12",
+      "homeScore": "",
+      "id": "35",
+      "penalty": false,
+      "playType": {
+       "direction": "middle",
+       "playType": "pass",
+       "result": ""
+      },
+      "qrt": "3",
+      "team": "Ste"
+     }
+    ],
+    "summary": "Drive: 3 plays, minus 2 yards, TOP 01:26"
+   },
+   {
+    "downs": [
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste47",
+      "clock": "",
+      "description": "HELSINKI ROOSTERS drive start at 04:23.",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "37",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "",
+       "result": ""
+      },
+      "qrt": "3",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste47",
+      "clock": "",
+      "description": "Timeout Helsinki Roosters, clock 04:23.",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "38",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "timeout",
+       "result": ""
+      },
+      "qrt": "3",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste47",
+      "clock": "",
+      "description": "ROO 39 now wearing 60.",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "39",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "",
+       "result": ""
+      },
+      "qrt": "3",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste47",
+      "clock": "",
+      "description": "Kaasinen H rush over left end for loss of 1 yard to the STE48 (Ndongo T).",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "40",
+      "penalty": false,
+      "playType": {
+       "direction": "left",
+       "playType": "rush",
+       "result": ""
+      },
+      "qrt": "3",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste48",
+      "clock": "",
+      "description": "ROO 60 now wearing 39.",
+      "distance": "11",
+      "down": "2",
+      "downAndDistance": "2-11",
+      "homeScore": "",
+      "id": "41",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "",
+       "result": ""
+      },
+      "qrt": "3",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste48",
+      "clock": "",
+      "description": "Stancombe B short left pass complete to Pitkanen T for 9 yards to the STE39, out-of-bounds (Pekkarinen I).",
+      "distance": "11",
+      "down": "2",
+      "downAndDistance": "2-11",
+      "homeScore": "",
+      "id": "42",
+      "penalty": false,
+      "playType": {
+       "direction": "left",
+       "playType": "pass",
+       "result": "complete"
+      },
+      "qrt": "3",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste39",
+      "clock": "",
+      "description": "Stancombe B short right pass complete to Vehkomaki San for 1 yard to the STE38, out-of-bounds (Pekkarinen I).",
+      "distance": "2",
+      "down": "3",
+      "downAndDistance": "3-2",
+      "homeScore": "",
+      "id": "43",
+      "penalty": false,
+      "playType": {
+       "direction": "right",
+       "playType": "pass",
+       "result": "complete"
+      },
+      "qrt": "3",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste38",
+      "clock": "",
+      "description": "Nicault A rush over left guard for 23 yards to the STE15, 1ST DOWN ROO (Pekkarinen I).",
+      "distance": "1",
+      "down": "4",
+      "downAndDistance": "4-1",
+      "homeScore": "",
+      "id": "44",
+      "penalty": false,
+      "playType": {
+       "direction": "left",
+       "playType": "rush",
+       "result": ""
+      },
+      "qrt": "3",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste15",
+      "clock": "",
+      "description": "Stancombe B short right pass complete to Mikkonen A for 15 yards to the STE0, 1ST DOWN ROO, TOUCHDOWN, clock 02:58.",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "45",
+      "penalty": false,
+      "playType": {
+       "direction": "right",
+       "playType": "pass",
+       "result": "complete"
+      },
+      "qrt": "3",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "",
+      "clock": "",
+      "description": "Rontu V kick attempt failed.",
+      "distance": "",
+      "down": "",
+      "downAndDistance": "",
+      "homeScore": "",
+      "id": "46",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "pat",
+       "result": ""
+      },
+      "qrt": "3",
+      "team": ""
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "",
+      "clock": "",
+      "description": "Kuopio Steelers 35, Helsinki Roosters 20",
+      "distance": "",
+      "down": "",
+      "downAndDistance": "",
+      "homeScore": "",
+      "id": "47",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "",
+       "result": ""
+      },
+      "qrt": "3",
+      "team": ""
+     }
+    ],
+    "summary": "Drive: 5 plays, 47 yards, TOP 01:27"
+   },
+   {
+    "downs": [
+     {
+      "awayScore": "",
+      "ballPosition": "",
+      "clock": "",
+      "description": "Rontu V kickoff 17 yards to the STE48, on-side kick, recovered by STE Lindsten V on STE47.",
+      "distance": "",
+      "down": "",
+      "downAndDistance": "",
+      "homeScore": "",
+      "id": "49",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "kickoff",
+       "result": ""
+      },
+      "qrt": "3",
+      "team": ""
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste47",
+      "clock": "",
+      "description": "KUOPIO STEELERS drive start at 02:56.",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "50",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "",
+       "result": ""
+      },
+      "qrt": "3",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste47",
+      "clock": "",
+      "description": "Reasnover L rush over left guard for 9 yards to the ROO44 (Bernat N).",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "51",
+      "penalty": false,
+      "playType": {
+       "direction": "left",
+       "playType": "rush",
+       "result": ""
+      },
+      "qrt": "3",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo44",
+      "clock": "",
+      "description": "Reasnover L rush over right guard for 3 yards to the ROO41, 1ST DOWN STE (Aronpaa T;Wezdenko K).",
+      "distance": "1",
+      "down": "2",
+      "downAndDistance": "2-1",
+      "homeScore": "",
+      "id": "52",
+      "penalty": false,
+      "playType": {
+       "direction": "right",
+       "playType": "rush",
+       "result": ""
+      },
+      "qrt": "3",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo41",
+      "clock": "",
+      "description": "Bradley J screen right pass complete to Lindsten V for 16 yards to the ROO25, 1ST DOWN STE, out-of-bounds.",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "53",
+      "penalty": false,
+      "playType": {
+       "direction": "right",
+       "playType": "pass",
+       "result": "complete"
+      },
+      "qrt": "3",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo25",
+      "clock": "",
+      "description": "Bradley J short left pass complete to Peurakumpu K for 10 yards to the ROO15, 1ST DOWN STE (Bernat N).",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "54",
+      "penalty": false,
+      "playType": {
+       "direction": "left",
+       "playType": "pass",
+       "result": "complete"
+      },
+      "qrt": "3",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo15",
+      "clock": "",
+      "description": "Reasnover L rush over left guard for 4 yards to the ROO11 (Aronpaa T).",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "55",
+      "penalty": false,
+      "playType": {
+       "direction": "left",
+       "playType": "rush",
+       "result": ""
+      },
+      "qrt": "3",
+      "team": "Ste"
+     }
+    ],
+    "summary": "Drive: 5 plays, 42 yards, TOP 03:01"
+   }
+  ],
+  [
+   {
+    "downs": [
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo11",
+      "clock": "",
+      "description": "Start of 4th quarter, clock 12:00.",
+      "distance": "6",
+      "down": "2",
+      "downAndDistance": "2-6",
+      "homeScore": "",
+      "id": "1",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "",
+       "result": ""
+      },
+      "qrt": "4",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo11",
+      "clock": "",
+      "description": "Bradley J short left pass complete to Paakki I-P for 11 yards to the ROO0, 1ST DOWN STE, TOUCHDOWN, clock 11:55.",
+      "distance": "6",
+      "down": "2",
+      "downAndDistance": "2-6",
+      "homeScore": "",
+      "id": "2",
+      "penalty": false,
+      "playType": {
+       "direction": "left",
+       "playType": "pass",
+       "result": "complete"
+      },
+      "qrt": "4",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "",
+      "clock": "",
+      "description": "Ojainvali M kick attempt good.",
+      "distance": "",
+      "down": "",
+      "downAndDistance": "",
+      "homeScore": "",
+      "id": "3",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "pat",
+       "result": "good"
+      },
+      "qrt": "4",
+      "team": ""
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "",
+      "clock": "",
+      "description": "Kuopio Steelers 42, Helsinki Roosters 20",
+      "distance": "",
+      "down": "",
+      "downAndDistance": "",
+      "homeScore": "",
+      "id": "4",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "",
+       "result": ""
+      },
+      "qrt": "4",
+      "team": ""
+     }
+    ],
+    "summary": "Drive: 6 plays, 53 yards, TOP 03:01"
+   },
+   {
+    "downs": [
+     {
+      "awayScore": "",
+      "ballPosition": "",
+      "clock": "",
+      "description": "Pekkarinen I kickoff 65 yards to the ROO0, touchback.",
+      "distance": "",
+      "down": "",
+      "downAndDistance": "",
+      "homeScore": "",
+      "id": "6",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "kickoff",
+       "result": ""
+      },
+      "qrt": "4",
+      "team": ""
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo20",
+      "clock": "",
+      "description": "HELSINKI ROOSTERS drive start at 11:55.",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "7",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "",
+       "result": ""
+      },
+      "qrt": "4",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo20",
+      "clock": "",
+      "description": "Mikkonen A rush over right tackle for 5 yards to the ROO25 (Pekkarinen I;Hietajarvi H).",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "8",
+      "penalty": false,
+      "playType": {
+       "direction": "right",
+       "playType": "rush",
+       "result": ""
+      },
+      "qrt": "4",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo25",
+      "clock": "",
+      "description": "Stancombe B short left pass complete to Vehkomaki San for 5 yards to the ROO30, 1ST DOWN ROO (Ndongo T;Tuppurainen T).",
+      "distance": "5",
+      "down": "2",
+      "downAndDistance": "2-5",
+      "homeScore": "",
+      "id": "9",
+      "penalty": false,
+      "playType": {
+       "direction": "left",
+       "playType": "pass",
+       "result": "complete"
+      },
+      "qrt": "4",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo30",
+      "clock": "",
+      "description": "Stancombe B rush scrambling for 4 yards to the ROO34.",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "10",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "rush",
+       "result": ""
+      },
+      "qrt": "4",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo34",
+      "clock": "",
+      "description": "Stancombe B deep middle pass incomplete to Vehkomaki San, dropped pass.",
+      "distance": "6",
+      "down": "2",
+      "downAndDistance": "2-6",
+      "homeScore": "",
+      "id": "11",
+      "penalty": false,
+      "playType": {
+       "direction": "middle",
+       "playType": "pass",
+       "result": "incomplete"
+      },
+      "qrt": "4",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo34",
+      "clock": "",
+      "description": "Stancombe B short middle pass incomplete to Rainio V (Laine R).",
+      "distance": "6",
+      "down": "3",
+      "downAndDistance": "3-6",
+      "homeScore": "",
+      "id": "12",
+      "penalty": false,
+      "playType": {
+       "direction": "middle",
+       "playType": "pass",
+       "result": "incomplete"
+      },
+      "qrt": "4",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo34",
+      "clock": "",
+      "description": "Stancombe B short right pass incomplete to Rainio V.",
+      "distance": "6",
+      "down": "4",
+      "downAndDistance": "4-6",
+      "homeScore": "",
+      "id": "13",
+      "penalty": false,
+      "playType": {
+       "direction": "right",
+       "playType": "pass",
+       "result": "incomplete"
+      },
+      "qrt": "4",
+      "team": "Roo"
+     }
+    ],
+    "summary": "Drive: 6 plays, 14 yards, TOP 01:48"
+   },
+   {
+    "downs": [
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo34",
+      "clock": "",
+      "description": "KUOPIO STEELERS drive start at 10:07.",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "15",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "",
+       "result": ""
+      },
+      "qrt": "4",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo34",
+      "clock": "",
+      "description": "Lehtonen T rush over right guard for 2 yards to the ROO32 (Oinonen O;Lagstrom N).",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "16",
+      "penalty": false,
+      "playType": {
+       "direction": "right",
+       "playType": "rush",
+       "result": ""
+      },
+      "qrt": "4",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo32",
+      "clock": "",
+      "description": "Lehtonen T rush over right end for 13 yards to the ROO19, 1ST DOWN STE (Aronpaa T).",
+      "distance": "8",
+      "down": "2",
+      "downAndDistance": "2-8",
+      "homeScore": "",
+      "id": "17",
+      "penalty": false,
+      "playType": {
+       "direction": "right",
+       "playType": "rush",
+       "result": ""
+      },
+      "qrt": "4",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo19",
+      "clock": "",
+      "description": "Bradley J short left pass complete to Harju H for 5 yards to the ROO14, out-of-bounds.",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "18",
+      "penalty": false,
+      "playType": {
+       "direction": "left",
+       "playType": "pass",
+       "result": "complete"
+      },
+      "qrt": "4",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo14",
+      "clock": "",
+      "description": "Bradley J short right pass incomplete to Harju H, dropped pass.",
+      "distance": "5",
+      "down": "2",
+      "downAndDistance": "2-5",
+      "homeScore": "",
+      "id": "19",
+      "penalty": false,
+      "playType": {
+       "direction": "right",
+       "playType": "pass",
+       "result": "incomplete"
+      },
+      "qrt": "4",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo14",
+      "clock": "",
+      "description": "Bradley J short right pass incomplete to Lindsten V (Wezdenko K).",
+      "distance": "5",
+      "down": "3",
+      "downAndDistance": "3-5",
+      "homeScore": "",
+      "id": "20",
+      "penalty": false,
+      "playType": {
+       "direction": "right",
+       "playType": "pass",
+       "result": "incomplete"
+      },
+      "qrt": "4",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo14",
+      "clock": "",
+      "description": "Bradley J short right pass complete to Reasnover L for 11 yards to the ROO3, 1ST DOWN STE (Tuovinen E).",
+      "distance": "5",
+      "down": "4",
+      "downAndDistance": "4-5",
+      "homeScore": "",
+      "id": "21",
+      "penalty": false,
+      "playType": {
+       "direction": "right",
+       "playType": "pass",
+       "result": "complete"
+      },
+      "qrt": "4",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo03",
+      "clock": "",
+      "description": "Reasnover L rush over right tackle for 3 yards to the ROO0, TOUCHDOWN, clock 07:20.",
+      "distance": "G",
+      "down": "1",
+      "downAndDistance": "1-G",
+      "homeScore": "",
+      "id": "22",
+      "penalty": false,
+      "playType": {
+       "direction": "right",
+       "playType": "rush",
+       "result": ""
+      },
+      "qrt": "4",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "",
+      "clock": "",
+      "description": "Ojainvali M kick attempt good.",
+      "distance": "",
+      "down": "",
+      "downAndDistance": "",
+      "homeScore": "",
+      "id": "23",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "pat",
+       "result": "good"
+      },
+      "qrt": "4",
+      "team": ""
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "",
+      "clock": "",
+      "description": "Kuopio Steelers 49, Helsinki Roosters 20",
+      "distance": "",
+      "down": "",
+      "downAndDistance": "",
+      "homeScore": "",
+      "id": "24",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "",
+       "result": ""
+      },
+      "qrt": "4",
+      "team": ""
+     }
+    ],
+    "summary": "Drive: 7 plays, 34 yards, TOP 02:47"
+   },
+   {
+    "downs": [
+     {
+      "awayScore": "",
+      "ballPosition": "",
+      "clock": "",
+      "description": "Pekkarinen I kickoff 65 yards to the ROO0, touchback.",
+      "distance": "",
+      "down": "",
+      "downAndDistance": "",
+      "homeScore": "",
+      "id": "26",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "kickoff",
+       "result": ""
+      },
+      "qrt": "4",
+      "team": ""
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo20",
+      "clock": "",
+      "description": "HELSINKI ROOSTERS drive start at 07:20.",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "27",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "",
+       "result": ""
+      },
+      "qrt": "4",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo20",
+      "clock": "",
+      "description": "Deadball foul, PENALTY ROO 12 men on the field 5 yards to the ROO15, NO PLAY.",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "28",
+      "penalty": true,
+      "playType": {
+       "direction": "",
+       "playType": "",
+       "result": ""
+      },
+      "qrt": "4",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo15",
+      "clock": "",
+      "description": "Nicault A rush over left tackle for no gain to the ROO15 (Allen I).",
+      "distance": "15",
+      "down": "1",
+      "downAndDistance": "1-15",
+      "homeScore": "",
+      "id": "29",
+      "penalty": false,
+      "playType": {
+       "direction": "left",
+       "playType": "rush",
+       "result": ""
+      },
+      "qrt": "4",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo15",
+      "clock": "",
+      "description": "Kaasinen H rush over left tackle for 7 yards to the ROO22 (Hietajarvi H).",
+      "distance": "15",
+      "down": "2",
+      "downAndDistance": "2-15",
+      "homeScore": "",
+      "id": "30",
+      "penalty": false,
+      "playType": {
+       "direction": "left",
+       "playType": "rush",
+       "result": ""
+      },
+      "qrt": "4",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo22",
+      "clock": "",
+      "description": "Stancombe B rush scrambling for 9 yards to the ROO31, 1ST DOWN ROO, out-of-bounds.",
+      "distance": "8",
+      "down": "3",
+      "downAndDistance": "3-8",
+      "homeScore": "",
+      "id": "31",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "rush",
+       "result": ""
+      },
+      "qrt": "4",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo31",
+      "clock": "",
+      "description": "Kaasinen H rush over left guard for 1 yard to the ROO32 (Heikkinen J;Allen I).",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "32",
+      "penalty": false,
+      "playType": {
+       "direction": "left",
+       "playType": "rush",
+       "result": ""
+      },
+      "qrt": "4",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo32",
+      "clock": "",
+      "description": "Stancombe B short left pass incomplete to 60.",
+      "distance": "9",
+      "down": "2",
+      "downAndDistance": "2-9",
+      "homeScore": "",
+      "id": "33",
+      "penalty": false,
+      "playType": {
+       "direction": "left",
+       "playType": "pass",
+       "result": "incomplete"
+      },
+      "qrt": "4",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo32",
+      "clock": "",
+      "description": "Stancombe B short left pass incomplete to Daifi M.",
+      "distance": "9",
+      "down": "3",
+      "downAndDistance": "3-9",
+      "homeScore": "",
+      "id": "34",
+      "penalty": false,
+      "playType": {
+       "direction": "left",
+       "playType": "pass",
+       "result": "incomplete"
+      },
+      "qrt": "4",
+      "team": "Roo"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo32",
+      "clock": "",
+      "description": "Rontu V punt 49 yards to the STE19, downed.",
+      "distance": "9",
+      "down": "4",
+      "downAndDistance": "4-9",
+      "homeScore": "",
+      "id": "35",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "punt",
+       "result": "downed"
+      },
+      "qrt": "4",
+      "team": "Roo"
+     }
+    ],
+    "summary": "Drive: 6 plays, 12 yards, TOP 03:12"
+   },
+   {
+    "downs": [
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste19",
+      "clock": "",
+      "description": "KUOPIO STEELERS drive start at 04:08.",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "37",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "",
+       "result": ""
+      },
+      "qrt": "4",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste19",
+      "clock": "",
+      "description": "Bradley J short right pass complete to Juvonen S for 16 yards to the STE35, 1ST DOWN STE (Tuovinen E).",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "38",
+      "penalty": false,
+      "playType": {
+       "direction": "right",
+       "playType": "pass",
+       "result": "complete"
+      },
+      "qrt": "4",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste35",
+      "clock": "",
+      "description": "Bakker C rush over right tackle for 9 yards to the STE44 (Rontu V).",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "39",
+      "penalty": false,
+      "playType": {
+       "direction": "right",
+       "playType": "rush",
+       "result": ""
+      },
+      "qrt": "4",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Ste44",
+      "clock": "",
+      "description": "Lehtonen T rush over left end for 8 yards to the ROO48, 1ST DOWN STE, out-of-bounds.",
+      "distance": "1",
+      "down": "2",
+      "downAndDistance": "2-1",
+      "homeScore": "",
+      "id": "40",
+      "penalty": false,
+      "playType": {
+       "direction": "left",
+       "playType": "rush",
+       "result": ""
+      },
+      "qrt": "4",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo48",
+      "clock": "",
+      "description": "Bakker C rush over left guard for 6 yards to the ROO42 (Salminen W).",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "41",
+      "penalty": false,
+      "playType": {
+       "direction": "left",
+       "playType": "rush",
+       "result": ""
+      },
+      "qrt": "4",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo42",
+      "clock": "",
+      "description": "Bradley J short middle pass complete to Juvonen S for 15 yards to the ROO27, 1ST DOWN STE (Suokas L).",
+      "distance": "4",
+      "down": "2",
+      "downAndDistance": "2-4",
+      "homeScore": "",
+      "id": "42",
+      "penalty": false,
+      "playType": {
+       "direction": "middle",
+       "playType": "pass",
+       "result": "complete"
+      },
+      "qrt": "4",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo27",
+      "clock": "",
+      "description": "Team Steelers rush kneel down for loss of 1 yard to the ROO28.",
+      "distance": "10",
+      "down": "1",
+      "downAndDistance": "1-10",
+      "homeScore": "",
+      "id": "43",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "rush",
+       "result": ""
+      },
+      "qrt": "4",
+      "team": "Ste"
+     },
+     {
+      "awayScore": "",
+      "ballPosition": "at Roo28",
+      "clock": "",
+      "description": "End of game, clock 00:00.",
+      "distance": "11",
+      "down": "2",
+      "downAndDistance": "2-11",
+      "homeScore": "",
+      "id": "44",
+      "penalty": false,
+      "playType": {
+       "direction": "",
+       "playType": "",
+       "result": ""
+      },
+      "qrt": "4",
+      "team": "Ste"
+     }
+    ],
+    "summary": "Drive: 6 plays, 53 yards, TOP 04:08"
+   }
+  ]
+ ]
+}
